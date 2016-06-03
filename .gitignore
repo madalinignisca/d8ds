@@ -13,7 +13,11 @@ web/sites/*/files
 .idea
 
 # Aegir files
-sites/sites.php
-sites/*/drushrc.php
-sites/*/local.settings.php
-sites/all/drush/drushrc.php
+web/sites/sites.php
+web/sites/*/drushrc.php
+web/sites/*/local.settings.php
+web/sites/all/drush/drushrc.php
+
+# Ignore default settings to allow developers to set their own
+web/sites/default
+

@@ -20,4 +20,6 @@ web/sites/all/drush/drushrc.php
 
 # Ignore default settings to allow developers to set their own
 web/sites/default
+!web/sites/default/default.settings.php
+!web/sites/default/default.services.yml
 

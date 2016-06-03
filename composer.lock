@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "96a05977120df5ea8ffd57cbbdf733d3",
-    "content-hash": "a397009d32f3ddf3b9cf35ccce14f9d4",
+    "hash": "52b92db54c48e33ee5a9c50fc2f3d754",
+    "content-hash": "e41b88a5874a2341cbff01ed34af0193",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2389,16 +2389,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v2.8.6",
+            "version": "v2.8.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "48221d3de4dc22d2cd57c97e8b9361821da86609"
+                "reference": "9a5aef5fc0d4eff86853d44202b02be8d5a20154"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/48221d3de4dc22d2cd57c97e8b9361821da86609",
-                "reference": "48221d3de4dc22d2cd57c97e8b9361821da86609",
+                "url": "https://api.github.com/repos/symfony/console/zipball/9a5aef5fc0d4eff86853d44202b02be8d5a20154",
+                "reference": "9a5aef5fc0d4eff86853d44202b02be8d5a20154",
                 "shasum": ""
             },
             "require": {
@@ -2445,7 +2445,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2016-04-26 12:00:47"
+            "time": "2016-03-17 09:19:04"
         },
         {
             "name": "symfony/css-selector",
